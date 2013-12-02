@@ -17,7 +17,7 @@ setup(
                       'supports up to four of the most popular JS frameworks: '
                       'jQuery, Prototype, Dojo and mootols.'),
     install_requires=[
-        'django-dajaxice>=0.5'
+        'django-dajaxice>=0.5.6'
     ],
     classifiers=['Development Status :: 4 - Beta',
                 'Environment :: Web Environment',
